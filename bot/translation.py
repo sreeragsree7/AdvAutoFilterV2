@@ -4,14 +4,14 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>Hyy. 😌 {}!!</b>
+<b>ഞാൻ RFC യുടെ All In All ആണ്... വെറുതെ സമയം കളയണ്ട.. 😂
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Join Our Channel😌💥
 
 For More Details Click Help Button Below..
-@CrazyBotsz
-</i>"""    
+@royalfilimclub123
+</b>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
@@ -54,5 +54,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/sreeragsree7/AdvAutoFilterV2">Click Me</a></i>
 """
